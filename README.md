@@ -1,32 +1,32 @@
 # EXCEL_ROAD-ACCIDENT-DASHBOARD
-
-##📚 Project Overview
+ 
+## 📚Project Overview
 This project focuses on analyzing road accident data for the years 2021 and 2022 to identify key trends and insights related to casualties, accident severity, and vehicle involvement. The final deliverable is an interactive and dynamic Power BI Dashboard designed to help stakeholders improve road safety through data-driven decisions.
 
-##🔍 Project Workflow
+## 🔍 Project Workflow
 
-##Data Source
+## Data Source
 -Dataset collected from Kaggle (public road accident data).
 -File format: .xlsx
 -Rows: 3.07 million
 -Fields: 21
 
-##Data Cleaning
+## Data Cleaning
 Performed in Microsoft Excel to remove duplicates, handle null values, and standardize field names.
 
-##Data Processing
+## Data Processing
 -Imported cleaned dataset into Power BI.
 -Built relationships and created calculated measures for key metrics.
 
-##Data Analysis
+## Data Analysis
 -Conducted exploratory analysis to identify trends in accident severity, location, time, and vehicle type.
 -Created KPIs, slicers, and visuals to summarize key insights.
 
-##Dashboard Development
+## Dashboard Development
 -Designed a dynamic Power BI Dashboard to meet the client’s requirements.
 -Used interactive visuals for better understanding and comparison.
 
-##📊 Dashboard Requirements & Insights
+## 📊 Dashboard Requirements & Insights
 🔹 Primary KPIs
 -Total Casualties occurred after accidents.
 -Percentage of Total Casualties by Accident Severity.
@@ -39,7 +39,7 @@ Performed in Microsoft Excel to remove duplicates, handle null values, and stand
 -Distribution of Total Casualties by Road Surface.
 -Relation between Casualties by Area/Location and Day/Night.
 
-##👥 Stakeholders
+## 👥 Stakeholders
 -Ministry of Transport
 -Road Transport Department
 -Police Force
@@ -50,10 +50,10 @@ Performed in Microsoft Excel to remove duplicates, handle null values, and stand
 -Public
 -Media
 
-##🧠 Key Learning Outcomes
+## 🧠 Key Learning Outcomes
 -Data cleaning and preprocessing in Excel.
 -Data modeling, measure creation, and visualization in Power BI.
 -Building interactive, dynamic dashboards for real-world decision-making.
 
-##🏁 Final Output
+## 🏁 Final Output
 -A fully dynamic Power BI dashboard providing insights into road accidents, casualty distribution, and accident severity, empowering stakeholders to improve road safety initiatives.
